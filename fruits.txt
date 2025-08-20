@@ -2,3 +2,6 @@ apples
 bananas
 cherries
 dragon fruits
+mangoes
+grapes
+peaches
